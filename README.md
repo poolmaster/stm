@@ -1,8 +1,8 @@
 Software Transactional Memory (STM) with HW-Acceleration
 ===
 
-EE382N Parallel Computer Architecture, 2013 Spring
-University of Texas at Austin
+EE382N Parallel Computer Architecture, 2013 Spring     
+University of Texas at Austin      
 Course Project
 
 In this project, we ask a fundamental question: when to choose between transactional memory and locks? Our intuition is that it is better to stall a thread if a transaction is doomed to being aborted in future.
